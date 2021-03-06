@@ -1,0 +1,17 @@
+[
+  {
+    "hospcode": "11053",
+    "hospname": "โรงพยาบาลกันทรวิชัย",
+    "hn": "0041223",
+    "vn": "64010222052522",
+    "main_dep": "แผนกผู้ป่วยนอก",
+    "sub_dep": "ห้องตรวจโรคทั่วไป",
+    "pttype": "O4-จ่ายตรง สิทธิเบิกกรมบัญชีกลาง(บุคคลในครอบครัว)",
+    "pttype_no": "34404444444444",
+    "an": "640000012",
+    "diagcode": "I10",
+    "diagname": "Essential (Primary) Hypertension",
+    "provider": "mophgateway",
+    "txid": "cf64f70d-4143-4382-bc25-2cb87f23ce45"
+  }
+]

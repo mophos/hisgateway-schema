@@ -1,0 +1,15 @@
+[
+  {
+    "hospcode": "11053",
+    "hospname": "โรงพยาบาลกันทรวิชัย",
+    "hn": "0041223",
+    "vn": "64010222052522",
+    "order_number": "168880",
+    "group_name": "CHEMISTRY",
+    "lab_name": "ALTor SGPT",
+    "lab_result": "86",
+    "normal_value": "0-40",
+    "provider": "mophgateway",
+    "txid": "cf64f70d-4143-4382-bc25-2cb87f23ce45"
+  }
+]

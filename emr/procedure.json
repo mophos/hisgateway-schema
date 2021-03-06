@@ -1,0 +1,16 @@
+[
+  {
+    "hospcode": "11053",
+    "hospname": "โรงพยาบาลกันทรวิชัย",
+    "hn": "0041223",
+    "vn": "64010222052522",
+    "diagcode": "9929",
+    "diagname": "Injection or infusion of other therapeutic or prophylactic substance",
+    "start_date": "2021-01-21",
+    "start_time": "11:30:25",
+    "finish_date": "2021-01-21",
+    "finish_time": "20:30:00",
+    "provider": "mophgateway",
+    "txid": "cf64f70d-4143-4382-bc25-2cb87f23ce45"
+  }
+]

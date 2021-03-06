@@ -1,0 +1,13 @@
+[
+  {
+    "hospcode": "11053",
+    "hospname": "โรงพยาบาลกันทรวิชัย",
+    "hn": "0041223",
+    "vn": "64010222052522",
+    "diagcode": "Y848",
+    "diagname": "Other medical procedures as the cause of abnormal reaction of the patient\\, or of later complication\\, without mention of misadventure at the time of the procedure",
+    "diagtype": "External cause (สาเหตุภายนอก)",
+    "provider": "mophgateway",
+    "txid": "cf64f70d-4143-4382-bc25-2cb87f23ce45"
+  }
+]
